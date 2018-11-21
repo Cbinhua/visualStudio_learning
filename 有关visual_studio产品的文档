@@ -1,0 +1,22 @@
+Visual Studio 文档
+    (1)Visual Studio IDE
+    C++, C#,Python,Node.js,Visual Basic,F#
+    (2)Azure DevOps文档
+    Azure DevOps服务提供开发协作工具，包括高性能管道、免费的私有Git存储库、可配置的看板以及广泛的自动化和基于云的负载测试。
+    (3)Azure DevOps服务器文档
+    Azure DevOps Server，以前称为VisualStudioTeamFoundationServer，是Azure DevOps服务。它提供支持协同软件开发的集成工具，
+    包括Git存储库、持续集成和持续部署(CI/CD)和交互式看板。
+    (4)Visual Studio Code 
+    Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is 
+    available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and 
+    Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) 
+    and runtimes (such as .NET and Unity). Begin your journey with VS Code with these introductory videos.
+    (5)VisualStudioforMac介绍(默认情况下，VisualStudioforMac支持以C#和F#进行的开发)
+    VisualStudioforMacWebIDE，内附有多种用于创建移动、桌面和应用程序的功能。 它支持以下类型的开发：
+    .NET移动应用：AndroidIOS、Watch OS
+    mac桌面应用
+    .NET核心应用程序
+    ASP.NET核心Web应用程序
+    跨平台统一游戏
+    它包括丰富的编辑器、调试、与IOS/mac/android的本机平台集成和集成源控件等功能。
+    本文探究了VisualStudio for Mac的方方面面，还介绍了哪些功能使其成为了一款创建跨平台应用程序的强大工具。
